@@ -1,0 +1,19 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "A single-page-app made with JQuery and CSS",
+  "main": "tictactoe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziqingW/TicTacToe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziqingW/TicTacToe/issues"
+  },
+  "homepage": "https://github.com/ziqingW/TicTacToe#readme"
+}
