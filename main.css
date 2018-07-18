@@ -1,5 +1,5 @@
 body{
-  background-image: url("/images/tictactoeback.jpg");
+  background-image: url("images/tictactoeback.jpg");
   background-size: cover;
 }
 header{
@@ -12,7 +12,7 @@ header{
 table{
   margin-left: auto;
   margin-right: auto;
-  background-image: url("/images/table-background.png");
+  background-image: url("images/table-background.png");
   box-shadow: 5px 5px 5px grey;  
   position:relative;
 }
