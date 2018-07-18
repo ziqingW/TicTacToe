@@ -38,7 +38,7 @@ $(document).ready(function() {
   function x1(btn, i) {
     if (li[i - 1] === 0) {
       $(btn).html(
-        "<img id='xpic' src='/images/x23.png'>"
+        "<img id='xpic' src='./images/x23.png'>"
       );
       pos = pos.filter(function(value) {
         return value != i;
@@ -52,7 +52,7 @@ $(document).ready(function() {
   function o1(btn, i) {
     if (li[i - 1] === 0) {
       $(btn).html(
-        "<img id='opic' src='/images/o10.png'>"
+        "<img id='opic' src='./images/o10.png'>"
       );
       pos = pos.filter(function(value) {
         return value != i;
@@ -66,7 +66,7 @@ $(document).ready(function() {
   function aix1(btn, i) {
     if (li[i - 1] === 0) {
       $(btn).html(
-        "<img id='xpicai' src='/images/x23.png'/>"
+        "<img id='xpicai' src='./images/x23.png'/>"
       );
       pos = pos.filter(function(value) {
         return value != i;
@@ -80,7 +80,7 @@ $(document).ready(function() {
   function aio1(btn, i) {
     if (li[i - 1] === 0) {
       $(btn).html(
-        "<img id='opicai' src='/images/o10.png'/>"
+        "<img id='opicai' src='./images/o10.png'/>"
       );
       pos = pos.filter(function(value) {
         return value != i;
